@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: aherve
- * Date: 17/02/2015
- * Time: 16:35
- */
+namespace AnthonyHerve\TestBundle\Composer;
 
 class ScriptHandler {
 
