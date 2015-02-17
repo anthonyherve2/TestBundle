@@ -7,5 +7,9 @@
             "email": "anthony.herve28@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+  "autoload": {
+    "psr-0": { "AnthonyHerve\\TestBundle": "" }
+  },
+  "target-dir": "AnthonyHerve/TestBundle"
 }
