@@ -1,0 +1,3 @@
+anthony_herve_test_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: AnthonyHerveTestBundle:Default:index }

@@ -1,0 +1,11 @@
+{
+    "name": "aherve/test-bundle",
+    "description": "Bundle de test",
+    "authors": [
+        {
+            "name": "Anthony HERVE",
+            "email": "anthony.herve28@gmail.com"
+        }
+    ],
+    "require": {}
+}
